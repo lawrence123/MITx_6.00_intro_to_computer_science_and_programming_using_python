@@ -1,2 +1,3 @@
-# MITx_6.00_intro_to_computer_science_and_programming_using_python
-MIT Intro to computer science using python
+#MIT Intro to computer science using python
+
+All the code I wrote in the class
